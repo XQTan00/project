@@ -1,2 +1,4 @@
-# project
-Just a record of what I have done during these 4 years from 2019 to 2023
+# My Past Project Involvement
+Self learning project and Academic project
+
+I've finished 28 courses in my university currently. 4 group projects are highlighted among all the courses and files are uploaded in this repository. I've done 1 self project in the past, currently still learning machine learning courses in Coursera to proceed my next self learning project.
